@@ -354,10 +354,8 @@ var wheel = {
 
         ctx.lineWidth = 10;
         ctx.strokeStyle = '#000000';
-        ctx.shadowColor = '#999';
-        ctx.shadowBlur = 2;
-        ctx.shadowOffsetX = 2;
-        ctx.shadowOffsetY = 2;
+
+
         ctx.stroke();
     },
 }
