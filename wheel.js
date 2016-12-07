@@ -291,8 +291,6 @@ var wheel = {
         ctx.moveTo(centerX, centerY);
         ctx.arc(centerX, centerY, size, lastAngle, angle, false); // Draw a arc around the edge
         ctx.lineTo(centerX, centerY); // Now draw a line back to the centre
-        // Clip anything that follows to this area
-        //ctx.clip(); // It would be best to clip, but we can double performance without it
         ctx.closePath();
 
         ctx.fillStyle = colors[key];
@@ -356,6 +354,10 @@ var wheel = {
 
         ctx.lineWidth = 10;
         ctx.strokeStyle = '#000000';
+        ctx.shadowColor = '#999';
+        ctx.shadowBlur = 2;
+        ctx.shadowOffsetX = 2;
+        ctx.shadowOffsetY = 2;
         ctx.stroke();
     },
 }
