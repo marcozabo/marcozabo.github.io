@@ -12,7 +12,7 @@ presskit_download_link                    : # Enter a link to downloadable file 
 
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Secret camera for iOS                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : More privacy in your hand
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Marco Zabo                                
-your_link                                 : https://uazoo.com                     
+your_link                                 : https://www.uazoo.com                     
 your_city                                 : Italy                                
 email_address                             : uazooapps@gmail.com
 facebook_username                         :                                           
@@ -75,7 +75,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/head.jpg                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerImage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
