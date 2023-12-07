@@ -38,11 +38,11 @@ features                                  :
 
   - title                                 : Black Screen Stealth Mode
     description                           : Activate a discreet black screen to ensure absolute privacy during camera use.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : mobile
     
   - title                                 : Covert Photo Capture
     description                           : Capture photos without any indicators or sounds to maintain confidentiality.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : camera
 
   - title                                 : Touch Gesture Activation
     description                           : Initiate recording or capture with customizable touch gestures, ensuring intuitive and quick operation experience
@@ -50,23 +50,20 @@ features                                  :
 
   - title                                 : Private Gallery
     description                           : Store captured photos and videos in a secure gallery with additional FaceID protection for added privacy.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : image
 
   - title                                 : Encrypted File Storage
     description                           : Ensure the security of your recorded content with encrypted file storage to prevent unauthorized access.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : lock
   
   - title                                 : Share and Save
     description                           : Save your pictures to camera roll or share
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : share
 
   - title                                 : 4K Videos
     description                           : Enjoy 4K videos @ 60 FPS.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : video
 
-  - title                                 : Themes and Categories
-    description                           : Browse through themed categories, such as animals, mandalas, landscapes, and more, to find the perfect coloring page for your mood.
-    fontawesome_icon_name                 : link
 
 
 
@@ -83,7 +80,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#598392"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -92,7 +89,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#598392"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
