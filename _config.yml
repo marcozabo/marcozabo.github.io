@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Discreet - Spy camera app for iPhone & iPad                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1600729989                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,9 +11,9 @@ presskit_download_link                    : # Enter a link to downloadable file 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Secret camera for iOS                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : More privacy in your hand
+app_name                                  : Discreet - Black Screen Camera app                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Spy camera app for iOS                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Capture Photos and Videos, Secretly.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -45,7 +45,7 @@ features                                  :
     fontawesome_icon_name                 : camera
 
   - title                                 : Touch Gesture Activation
-    description                           : Initiate recording or capture with customizable touch gestures, ensuring intuitive and quick operation experience
+    description                           : Record or capture with customizable touch gestures, ensuring intuitive and quick operation experience
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Private Gallery
@@ -63,6 +63,10 @@ features                                  :
   - title                                 : 4K Videos
     description                           : Enjoy 4K videos @ 60 FPS.
     fontawesome_icon_name                 : video
+
+  - title                                 : Slow motion
+    description                           : Supports recording in slow motion
+    fontawesome_icon_name                 : play-circle  
 
 
 
