@@ -1,3 +1,4 @@
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <style>
   /* reset */
 form input,
@@ -77,6 +78,8 @@ form select {
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="" required="" minlength="20"></textarea>
+    <div class="g-recaptcha" data-sitekey="6LfvyOASAAAAAMeXz_bC0AvXIYV3EkS04ZAEKNsm"></div>
+    <br/>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
