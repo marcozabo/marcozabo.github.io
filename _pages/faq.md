@@ -112,5 +112,18 @@ FAQ
                             </div>
                         </div>
                     </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEight">What does the "Video Helper" feature do?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseEight" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                The video helper feature helps to better understand if video recording is running or not. When activated, a subtle message appears on the black screen with the text 'Tap to start recording.' Once the recording starts, the message disappears.
+                            </div>
+                        </div>
+                    </div>
 </div>
 <!-- /.panel-group -->
