@@ -15,6 +15,17 @@
 
 }
 
+.textBlock {
+   grid-area: t; /* Usa una nuova area di grid se necessario */
+   text-align: center;
+   font-size: 22px;
+   margin-bottom: 20px;
+   text-align: justify;
+    color: #666;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
 .headerBackground {
 	height: 115px;
 	background-color: rgba($header-color, $header-transparency);
@@ -25,6 +36,18 @@
 	.headerBackground {
 		height: 80px;
 	}
+
+	.textBlock {
+   grid-area: t; /* Usa una nuova area di grid se necessario */
+   text-align: center;
+   font-size: 22px;
+   text-align: justify;
+   margin-bottom: 20px;
+    color: #666;
+    margin-top: 150px;
+    line-height: 1.5;
+}
+
 
 }
 
@@ -44,6 +67,7 @@
 	grid-template-areas: 
 		"h h h h h h h h h h h h"
 		"p p p p p i i i i i i i"
+		"t t t t t t t t t t t t" 
 		"c c c c c c c c c c c c"
 		"f f f f f f f f f f f f";
 }
@@ -69,6 +93,7 @@
 		grid-template-areas: 
 			"h h h h h h h h h h h h"
 			"i i i i i i i i i i i i"
+			"t t t t t t t t t t t t" 
 			"p p p p p p p p p p p p"
 			"c c c c c c c c c c c c"
 			"f f f f f f f f f f f f";

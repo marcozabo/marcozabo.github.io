@@ -68,6 +68,10 @@ features                                  :
     description                           : Supports recording in slow motion
     fontawesome_icon_name                 : play-circle  
 
+  - title                                 : Apple watch
+    description                           : Control your spy camera app remotely 
+    fontawesome_icon_name                 : clock   
+
 
 
 
