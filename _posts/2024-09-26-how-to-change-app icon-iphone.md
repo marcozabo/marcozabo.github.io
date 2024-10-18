@@ -6,7 +6,9 @@ categories: blog
 ---
 
 
-If privacy and subtlety are important to you, customizing your iPhone app icons can be a clever way to make certain apps less noticeable. Whether you want to avoid prying eyes or just prefer a cleaner, minimalist look, changing the icon for an app like **Discreet** can help you blend it into the rest of your home screen. Here’s how you can change the icon of any app, including Discreet, to make your iPhone feel more personal—and, well, more discreet.
+If privacy and subtlety are important to you, customizing your iPhone app icons can be a clever way to make certain apps less noticeable. Whether you want to avoid prying eyes or just prefer a cleaner, minimalist look, changing the icon for an app like [Discreet - Black Screen Camera](https://apps.apple.com/us/app/discreet-black-screen-camera/id1600729989) can help you blend it into the rest of your home screen. Here’s how you can change the icon of any app, including Discreet, to make your iPhone feel more personal—and, well, more discreet.
+
+[![Spy camera app for iphone](/assets/change-iphone-icons.png)](https://https://apps.apple.com/us/app/discreet-black-screen-camera/id1600729989)
 
 ## Steps to Customize Your iPhone App Icons (Using Discreet as an Example):
 
@@ -26,6 +28,9 @@ The Shortcuts app is the secret to this whole process. It’s already installed 
 - On the next screen, you'll be able to rename your shortcut. You could use a neutral name like “Settings” or something vague to keep things discreet.
 - Tap the icon next to the name field, select "Choose Photo," and pick the subtle icon you saved earlier. Adjust it as needed, then hit "Add."
 
+
+
+[![Spy camera app for iphone](/assets/iPhone-Black-Screen-spy-camera.png)](https://https://apps.apple.com/us/app/discreet-black-screen-camera/id1600729989)
 ### 5. Hide the Original Discreet App Icon
 After adding your custom Discreet icon to the home screen, the original app icon will still be visible. To avoid drawing attention to it, move the original Discreet icon to a folder or hide it on a different screen.
 

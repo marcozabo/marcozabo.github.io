@@ -5,11 +5,11 @@ include_in_header: true
 ---
 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+<div class="article-container">
+      {% for post in site.posts %}
+      <div class="article">
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <p>{{ post.excerpt }}</p>
+      </div>
+      {% endfor %}
+  </div>

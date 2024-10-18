@@ -1,3 +1,44 @@
+.article-container {
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+}
+.article {
+   background-color: #fff;
+   border-radius: 10px;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+   padding: 20px;
+   border: 1px solid #ddd;
+   transition: transform 0.2s ease-in-out;
+}
+.article:hover {
+   transform: scale(1.02);
+}
+.article h2 {
+   margin-top: 0;
+   font-size: 1.5em;
+}
+.article p {
+   color: #666;
+   font-size: 1em;
+   line-height: 1.6em;
+}
+
+
+.qrcode p img{
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    display: inline-block; 
+}
+
+
+.centered-text {
+    text-align: center;
+}
+
+
+
 .imageWrapper {					// Sets the background image in the header area
 	height: 714px;
 	background: 

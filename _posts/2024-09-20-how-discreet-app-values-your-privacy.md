@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "how discreet app values your privacy"
+title: "How discreet app values your privacy"
 date: 2024-09-25
 categories: blog
 ---
