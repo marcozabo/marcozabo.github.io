@@ -4,7 +4,7 @@
 {% include head.html %}
 
 <body>
-    <div class="imageWrapper">
+    <div class="imageWrapper" id="wrapper">
             <div class="headerBackground">
                 <div class="container">
                     {% include headerhome.html %}
@@ -64,5 +64,24 @@
                 </div>
             </div>
         </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.dots.min.js"></script>
+<script>
+VANTA.DOTS({
+  el: "#wrapper",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  color: 0x119181,
+  color2: 0x20f1ff,
+  size: 3.60,
+  spacing: 26.00,
+  showLines: false
+})
+</script>
 </body>
 </html>
