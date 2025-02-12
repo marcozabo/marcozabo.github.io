@@ -86,6 +86,12 @@ Cookies
 Discreet app do not collect "Cookies".
 
 
+External scripts
+================
+
+Secretspycamera.com websites use some third party scripts do improve its functionalities, without collecting or reading user data.
+
+
 
 Remarketing Services
 ====================

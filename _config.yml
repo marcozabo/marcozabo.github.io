@@ -37,7 +37,11 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Black Screen Stealth Mode
-    description                           : Activate a discreet black screen to ensure absolute privacy during camera use.
+    description                           : Activate a black screen to ensure absolute privacy during camera use. Now your phone seems to be turned off.
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Custom Screen Mode
+    description                           : Upload your own lockscreen screenshot or any image to hide your Discreet camera.
     fontawesome_icon_name                 : mobile
     
   - title                                 : Covert Photo Capture

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to change App Icons to Be More Discreet"
-date: 2024-09-25
+date: 2025-01-01
 categories: blog
 ---
 
