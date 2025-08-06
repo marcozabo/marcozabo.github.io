@@ -35,7 +35,7 @@ Information automatically collected
 ===================================
 
 There is some information collected automatically: device information, operating system version, connection information, purchase history.
-Collected information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about who and when you use our and other technical information. This information is primarily needed to maintain the security and operation of our platform, and for our internal analytics and reporting purposes.
+Collected information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, device characteristics, operating system, language preferences, referring URLs, device name. This information is primarily needed to maintain the security and operation of our platform, and for our internal analytics and reporting purposes.
 
 Personnel
 =========
@@ -44,15 +44,6 @@ If you are a Discreet app worker or applicant, we collect information you volunt
 
 You may contact us in order to (1) update or correct your information, (2) change your preferences with respect to communications and other information you receive from us, or (3) receive a record of the information we have relating to you. Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion.
 
-Sale of Business
-================
-
-We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of Discreet app or any of its Corporate Affiliates (as defined herein), or that portion of Discreet app or any of its Corporate Affiliates to which the Service relates, or in the event that we discontinue our business or file a petition or have filed against us a petition in bankruptcy, reorganization or similar proceeding, provided that the third party agrees to adhere to the terms of this Privacy Policy.
-
-Affiliates
-==========
-
-We may disclose information (including personal information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with Discreet app, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
 
 Governing Law
 =============
@@ -66,7 +57,7 @@ By using Discreet app or contacting us directly, you signify your acceptance of 
 Your Consent
 ============
 
-We've updated our Privacy Policy to provide you with complete transparency into what is being set when you visit our site and how it's being used. By using our app, registering an account, or making a purchase, you hereby consent to our Privacy Policy and agree to its terms.
+We've updated our Privacy Policy to provide you with complete transparency into what is being set when you visit our site and how it's being used. By using our app, or making a purchase, you hereby consent to our Privacy Policy and agree to its terms.
 
 Links to Other Websites
 =======================
@@ -106,7 +97,7 @@ We do not collect information from kids under the age of 13 just to better our s
 Changes To Our Privacy Policy
 =============================
 
-We may change our Service and policies, and we may need to make changes to this Privacy Policy so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to this Privacy Policy and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Privacy Policy. If you do not want to agree to this or any updated Privacy Policy, you can delete your account.
+We may change our Service and policies, and we may need to make changes to this Privacy Policy so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to this Privacy Policy and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Privacy Policy. 
 
 Third-Party Services
 ====================
@@ -172,7 +163,7 @@ We are also required to communicate information about rights California resident
 
 *   Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories of Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are collected or used by us; (3) categories of sources from which we collect Personal Information; and (4) specific pieces of Personal Information we have collected about you.
 *   Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
-*   Right to Delete. You may submit a verifiable request to close your account and we will delete Personal Information about you that we have collected.
+
 *   Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
@@ -190,7 +181,7 @@ CalOPPA users have the following rights:
 
 *   Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories of Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are collected or used by us; (3) categories of sources from which we collect Personal Information; and (4) specific pieces of Personal Information we have collected about you.
 *   Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
-*   Right to Delete. You may submit a verifiable request to close your account and we will delete Personal Information about you that we have collected.
+
 *   Right to request that a business that sells a consumer's personal data, not sell the consumer's personal data.
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
