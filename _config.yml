@@ -1,6 +1,6 @@
 #page title
 page_title                                : Discreet - Spy camera app for iPhone & iPad                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
-
+url: "https://secretspycamera.com"   # <— importantissimo!
 # App Info
 ios_app_id                                : 1600729989                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : it                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
@@ -143,3 +143,6 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
