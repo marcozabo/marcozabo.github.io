@@ -140,7 +140,7 @@ collections:
     output: true
     permalink: /:path/
 
-
+future: true
 # Markdown rendering
 markdown: kramdown
 
