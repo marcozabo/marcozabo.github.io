@@ -24,7 +24,7 @@ Below is our complete, comparison for users seeking the **best spy camera app fo
 **Link for download:**  
 https://apps.apple.com/us/app/discreet-black-screen-camera/id1600729989
 
-Endorsed by our team and positively reviewed by reputable tech publications such as aranzulla.it, tech-latest.com, and intoguide.com, **Discreet – Black Screen Camera** stands out as the most advanced and reliable hidden camera app available on iOS. :contentReference[oaicite:0]{index=0}
+Endorsed by our team and positively reviewed by reputable tech publications such as aranzulla.it, tech-latest.com, and intoguide.com, **Discreet – Black Screen Camera** stands out as the most advanced and reliable hidden camera app available on iOS.
 
 ### Main features
 
@@ -43,7 +43,7 @@ Users can fine-tune recording settings, configure discrete gestures, control scr
 #### Lock screen widget  
 A widget that can be placed on the iPhone lock screen to quickly launch the application
 
-[![Spy camera app for iPhone](/assets/iphone-black-screen.png)](https://apps.apple.com/us/app/discreet-black-screen-camera/id1600729989) :contentReference[oaicite:3]{index=3}
+[![Spy camera app for iPhone](/assets/iphone-black-screen.png)](https://apps.apple.com/us/app/discreet-black-screen-camera/id1600729989)
 
 **Bottom line:**  
 Discreet remains the **best spy camera app for iPhone in 2026**, combining unmatched quality, reliability, and professional-grade stealth features.

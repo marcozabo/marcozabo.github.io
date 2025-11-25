@@ -76,6 +76,9 @@ features                                  :
     description                           : Control your spy camera app remotely 
     fontawesome_icon_name                 : clock   
 
+  - title                                 : Widget
+    description                           : Quickly launch it from the lock screen 
+    fontawesome_icon_name                 : lock  
 
 
 
